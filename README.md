@@ -1,5 +1,12 @@
 # TodosVOIS
 
+### at client folder 
+npm i 
+npm start 
+at server folder 
+npm i 
+npm run dev
+
 ##Used Technologies
 
 ### BackEnd 
