@@ -16,13 +16,21 @@
 
 ## this task build on a scenario that the user can
 1-Register ,Login,Logout
+
 2-add a task in task table
+
 3-add a taskstatus in taskstatus table 
+
 4- then User can Post a new row task history table  with action made (taskstatus)  certain task 
 and assign to UserId in assignedto column 
+
 5-User can get taskhistory which assigned to him 
+
 6-user can get all data from  taskhistory with relation (task,taskstatus)
+
 7-user can last row added  with a chosen taskid from taskhistory  
+
 8-user can get all data fem task history table for a chosen taskId
+
 
 
