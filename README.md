@@ -5,7 +5,11 @@ npm i
 npm start 
 at server folder 
 npm i 
-npm run dev
+npm run dev 
+
+then check ORMConfiguraion  file 
+and  user name and PAssowrd , PstgresQL_POrt
+ add a VOIS as Database Name in 
 
 ##Used Technologies
 
