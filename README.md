@@ -4,12 +4,24 @@
 npm i 
 npm start 
 at server folder 
+
+#### reactjs app will locally hosted on http://localhost:3000  
+
 npm i 
 npm run dev 
 
-then check ORMConfiguraion  file 
-and  user name and PAssowrd , PstgresQL_POrt
- add a VOIS as Database Name in 
+init the postgres locally and create schema :
+
+ databaseName :VOIS
+
+then at ORMConfiguration File 
+
+username : x 
+
+password : y
+
+Port:5432
+
 
 ##Used Technologies
 
